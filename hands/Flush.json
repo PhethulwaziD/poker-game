@@ -1,0 +1,9 @@
+{ "cards":
+   [ { "name": "J♥", "rank": 10, "suit": "♥"},
+     { "name": "9♥", "rank": 8, "suit": "♥"},
+     { "name": "4♥", "rank": 3, "suit": "♥"},
+     { "name": "2♥", "rank": 1, "suit": "♥"},
+     { "name": "6♥", "rank": 5, "suit": "♥"} ],
+  "rankPairs": [],
+  "suitPairs": []
+}
