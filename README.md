@@ -9,8 +9,15 @@ Node js console application that generate 5 cards and dertimines the poker hand 
 ``` 
 * You can also test a list of cards that already exists in the hands folder as follows:
 ```bash
- ./run.sh 
+ ./run.sh Flush
 ``` 
+```bash
+ ./run.sh Four_of_a_kind
+``` 
+```bash
+ ./run.sh Full_house
+``` 
+
 # Ouput
 ```bash
     Shuffling ... Shuffling ... Shuffling ...
